@@ -6,7 +6,7 @@ Mon but a été de créer des barres et cercles de progression qui se remplissen
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/dynamic_progress_bar/
 
 ## Développez avec
 
