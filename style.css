@@ -120,7 +120,7 @@ h1 {
 .circle__box {
     height: auto;
     position: relative;
-    margin-top: 5rem;
+    margin: 5rem 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
