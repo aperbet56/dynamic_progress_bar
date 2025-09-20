@@ -1,5 +1,7 @@
 ## DYNAMIC PROGRESS BARS
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Mon but a été de créer des barres et cercles de progression qui se remplissent de manière progressive jusqu'à atteindre le pourcentage indiqué grâce à JavaScript.
@@ -8,7 +10,7 @@ Mon but a été de créer des barres et cercles de progression qui se remplissen
 
 Lien vers le projet : https://aperbet56.github.io/dynamic_progress_bar/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS
